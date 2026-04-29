@@ -68,7 +68,7 @@ The entire process is scheduled end to end from the Lambda function triggering i
 
 ---
 
-## # 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 -   **[Apache Kafka](https://kafka.apache.org/)**
 
