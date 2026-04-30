@@ -24,6 +24,7 @@ This project solves that by building a fully automated pipeline that takes live 
 
 ## 🗺️ Architecture Diagram
 
+![Architecture Diagram](https://github.com/Dhaval-Mainkar/OpenAQ-Air-Quality-Data-Engineering-Pipeline/blob/b24fde3d489b4f8ffbfb323af4da227beb0fab8b/Open%20AQ%20Architecture%20Diagram.jpg)
 
 ---
 
